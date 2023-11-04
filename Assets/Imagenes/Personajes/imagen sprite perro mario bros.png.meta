@@ -1,0 +1,4135 @@
+fileFormatVersion: 2
+guid: deed988d23e3ee9438d53096cc79ae35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: imagen sprite perro mario bros_0
+  - first:
+      213: 21300002
+    second: imagen sprite perro mario bros_1
+  - first:
+      213: 21300004
+    second: imagen sprite perro mario bros_2
+  - first:
+      213: 21300006
+    second: imagen sprite perro mario bros_3
+  - first:
+      213: 21300008
+    second: imagen sprite perro mario bros_4
+  - first:
+      213: 21300010
+    second: imagen sprite perro mario bros_5
+  - first:
+      213: 21300012
+    second: imagen sprite perro mario bros_6
+  - first:
+      213: 21300014
+    second: imagen sprite perro mario bros_7
+  - first:
+      213: 21300016
+    second: imagen sprite perro mario bros_8
+  - first:
+      213: 21300018
+    second: imagen sprite perro mario bros_9
+  - first:
+      213: 21300020
+    second: imagen sprite perro mario bros_10
+  - first:
+      213: 21300022
+    second: imagen sprite perro mario bros_11
+  - first:
+      213: 21300024
+    second: imagen sprite perro mario bros_12
+  - first:
+      213: 21300026
+    second: imagen sprite perro mario bros_13
+  - first:
+      213: 21300028
+    second: imagen sprite perro mario bros_14
+  - first:
+      213: 21300030
+    second: imagen sprite perro mario bros_15
+  - first:
+      213: 21300032
+    second: imagen sprite perro mario bros_16
+  - first:
+      213: 21300034
+    second: imagen sprite perro mario bros_17
+  - first:
+      213: 21300036
+    second: imagen sprite perro mario bros_18
+  - first:
+      213: 21300038
+    second: imagen sprite perro mario bros_19
+  - first:
+      213: 21300040
+    second: imagen sprite perro mario bros_20
+  - first:
+      213: 21300042
+    second: imagen sprite perro mario bros_21
+  - first:
+      213: 21300044
+    second: imagen sprite perro mario bros_22
+  - first:
+      213: 21300046
+    second: imagen sprite perro mario bros_23
+  - first:
+      213: 21300048
+    second: imagen sprite perro mario bros_24
+  - first:
+      213: 21300050
+    second: imagen sprite perro mario bros_25
+  - first:
+      213: 21300052
+    second: imagen sprite perro mario bros_26
+  - first:
+      213: 21300054
+    second: imagen sprite perro mario bros_27
+  - first:
+      213: 21300056
+    second: imagen sprite perro mario bros_28
+  - first:
+      213: 21300058
+    second: imagen sprite perro mario bros_29
+  - first:
+      213: 21300060
+    second: imagen sprite perro mario bros_30
+  - first:
+      213: 21300062
+    second: imagen sprite perro mario bros_31
+  - first:
+      213: 21300064
+    second: imagen sprite perro mario bros_32
+  - first:
+      213: 21300066
+    second: imagen sprite perro mario bros_33
+  - first:
+      213: 21300068
+    second: imagen sprite perro mario bros_34
+  - first:
+      213: 21300070
+    second: imagen sprite perro mario bros_35
+  - first:
+      213: 21300072
+    second: imagen sprite perro mario bros_36
+  - first:
+      213: 21300074
+    second: imagen sprite perro mario bros_37
+  - first:
+      213: 21300076
+    second: imagen sprite perro mario bros_38
+  - first:
+      213: 21300078
+    second: imagen sprite perro mario bros_39
+  - first:
+      213: 21300080
+    second: imagen sprite perro mario bros_40
+  - first:
+      213: 21300082
+    second: imagen sprite perro mario bros_41
+  - first:
+      213: 21300084
+    second: imagen sprite perro mario bros_42
+  - first:
+      213: 21300086
+    second: imagen sprite perro mario bros_43
+  - first:
+      213: 21300088
+    second: imagen sprite perro mario bros_44
+  - first:
+      213: 21300090
+    second: imagen sprite perro mario bros_45
+  - first:
+      213: 21300092
+    second: imagen sprite perro mario bros_46
+  - first:
+      213: 21300094
+    second: imagen sprite perro mario bros_47
+  - first:
+      213: 21300096
+    second: imagen sprite perro mario bros_48
+  - first:
+      213: 21300098
+    second: imagen sprite perro mario bros_49
+  - first:
+      213: 21300100
+    second: imagen sprite perro mario bros_50
+  - first:
+      213: 21300102
+    second: imagen sprite perro mario bros_51
+  - first:
+      213: 21300104
+    second: imagen sprite perro mario bros_52
+  - first:
+      213: 21300106
+    second: imagen sprite perro mario bros_53
+  - first:
+      213: 21300108
+    second: imagen sprite perro mario bros_54
+  - first:
+      213: 21300110
+    second: imagen sprite perro mario bros_55
+  - first:
+      213: 21300112
+    second: imagen sprite perro mario bros_56
+  - first:
+      213: 21300114
+    second: imagen sprite perro mario bros_57
+  - first:
+      213: 21300116
+    second: imagen sprite perro mario bros_58
+  - first:
+      213: 21300118
+    second: imagen sprite perro mario bros_59
+  - first:
+      213: 21300120
+    second: imagen sprite perro mario bros_60
+  - first:
+      213: 21300122
+    second: imagen sprite perro mario bros_61
+  - first:
+      213: 21300124
+    second: imagen sprite perro mario bros_62
+  - first:
+      213: 21300126
+    second: imagen sprite perro mario bros_63
+  - first:
+      213: 21300128
+    second: imagen sprite perro mario bros_64
+  - first:
+      213: 21300130
+    second: imagen sprite perro mario bros_65
+  - first:
+      213: 21300132
+    second: imagen sprite perro mario bros_66
+  - first:
+      213: 21300134
+    second: imagen sprite perro mario bros_67
+  - first:
+      213: 21300136
+    second: imagen sprite perro mario bros_68
+  - first:
+      213: 21300138
+    second: imagen sprite perro mario bros_69
+  - first:
+      213: 21300140
+    second: imagen sprite perro mario bros_70
+  - first:
+      213: 21300142
+    second: imagen sprite perro mario bros_71
+  - first:
+      213: 21300144
+    second: imagen sprite perro mario bros_72
+  - first:
+      213: 21300146
+    second: imagen sprite perro mario bros_73
+  - first:
+      213: 21300148
+    second: imagen sprite perro mario bros_74
+  - first:
+      213: 21300150
+    second: imagen sprite perro mario bros_75
+  - first:
+      213: 21300152
+    second: imagen sprite perro mario bros_76
+  - first:
+      213: 21300154
+    second: imagen sprite perro mario bros_77
+  - first:
+      213: 21300156
+    second: imagen sprite perro mario bros_78
+  - first:
+      213: 21300158
+    second: imagen sprite perro mario bros_79
+  - first:
+      213: 21300160
+    second: imagen sprite perro mario bros_80
+  - first:
+      213: 21300162
+    second: imagen sprite perro mario bros_81
+  - first:
+      213: 21300164
+    second: imagen sprite perro mario bros_82
+  - first:
+      213: 21300166
+    second: imagen sprite perro mario bros_83
+  - first:
+      213: 21300168
+    second: imagen sprite perro mario bros_84
+  - first:
+      213: 21300170
+    second: imagen sprite perro mario bros_85
+  - first:
+      213: 21300172
+    second: imagen sprite perro mario bros_86
+  - first:
+      213: 21300174
+    second: imagen sprite perro mario bros_87
+  - first:
+      213: 21300176
+    second: imagen sprite perro mario bros_88
+  - first:
+      213: 21300178
+    second: imagen sprite perro mario bros_89
+  - first:
+      213: 21300180
+    second: imagen sprite perro mario bros_90
+  - first:
+      213: 21300182
+    second: imagen sprite perro mario bros_91
+  - first:
+      213: 21300184
+    second: imagen sprite perro mario bros_92
+  - first:
+      213: 21300186
+    second: imagen sprite perro mario bros_93
+  - first:
+      213: 21300188
+    second: imagen sprite perro mario bros_94
+  - first:
+      213: 21300190
+    second: imagen sprite perro mario bros_95
+  - first:
+      213: 21300192
+    second: imagen sprite perro mario bros_96
+  - first:
+      213: 21300194
+    second: imagen sprite perro mario bros_97
+  - first:
+      213: 21300196
+    second: imagen sprite perro mario bros_98
+  - first:
+      213: 21300198
+    second: imagen sprite perro mario bros_99
+  - first:
+      213: 21300200
+    second: imagen sprite perro mario bros_100
+  - first:
+      213: 21300202
+    second: imagen sprite perro mario bros_101
+  - first:
+      213: 21300204
+    second: imagen sprite perro mario bros_102
+  - first:
+      213: 21300206
+    second: imagen sprite perro mario bros_103
+  - first:
+      213: 21300208
+    second: imagen sprite perro mario bros_104
+  - first:
+      213: 21300210
+    second: imagen sprite perro mario bros_105
+  - first:
+      213: 21300212
+    second: imagen sprite perro mario bros_106
+  - first:
+      213: 21300214
+    second: imagen sprite perro mario bros_107
+  - first:
+      213: 21300216
+    second: imagen sprite perro mario bros_108
+  - first:
+      213: 21300218
+    second: imagen sprite perro mario bros_109
+  - first:
+      213: 21300220
+    second: imagen sprite perro mario bros_110
+  - first:
+      213: 21300222
+    second: imagen sprite perro mario bros_111
+  - first:
+      213: 21300224
+    second: imagen sprite perro mario bros_112
+  - first:
+      213: 21300226
+    second: imagen sprite perro mario bros_113
+  - first:
+      213: 21300228
+    second: imagen sprite perro mario bros_114
+  - first:
+      213: 21300230
+    second: imagen sprite perro mario bros_115
+  - first:
+      213: 21300232
+    second: imagen sprite perro mario bros_116
+  - first:
+      213: 21300234
+    second: imagen sprite perro mario bros_117
+  - first:
+      213: 21300236
+    second: imagen sprite perro mario bros_118
+  - first:
+      213: 21300238
+    second: imagen sprite perro mario bros_119
+  - first:
+      213: 21300240
+    second: imagen sprite perro mario bros_120
+  - first:
+      213: 21300242
+    second: imagen sprite perro mario bros_121
+  - first:
+      213: 21300244
+    second: imagen sprite perro mario bros_122
+  - first:
+      213: 21300246
+    second: imagen sprite perro mario bros_123
+  - first:
+      213: 21300248
+    second: imagen sprite perro mario bros_124
+  - first:
+      213: 21300250
+    second: imagen sprite perro mario bros_125
+  - first:
+      213: 21300252
+    second: imagen sprite perro mario bros_126
+  - first:
+      213: 21300254
+    second: imagen sprite perro mario bros_127
+  - first:
+      213: 21300256
+    second: imagen sprite perro mario bros_128
+  - first:
+      213: 21300258
+    second: imagen sprite perro mario bros_129
+  - first:
+      213: 21300260
+    second: imagen sprite perro mario bros_130
+  - first:
+      213: 21300262
+    second: imagen sprite perro mario bros_131
+  - first:
+      213: 21300264
+    second: imagen sprite perro mario bros_132
+  - first:
+      213: 21300266
+    second: imagen sprite perro mario bros_133
+  - first:
+      213: 21300268
+    second: imagen sprite perro mario bros_134
+  - first:
+      213: 21300270
+    second: imagen sprite perro mario bros_135
+  - first:
+      213: 21300272
+    second: imagen sprite perro mario bros_136
+  - first:
+      213: 21300274
+    second: imagen sprite perro mario bros_137
+  - first:
+      213: 21300276
+    second: imagen sprite perro mario bros_138
+  - first:
+      213: 21300278
+    second: imagen sprite perro mario bros_139
+  - first:
+      213: 21300280
+    second: imagen sprite perro mario bros_140
+  - first:
+      213: 21300282
+    second: imagen sprite perro mario bros_141
+  - first:
+      213: 21300284
+    second: imagen sprite perro mario bros_142
+  - first:
+      213: 21300286
+    second: imagen sprite perro mario bros_143
+  - first:
+      213: 21300288
+    second: imagen sprite perro mario bros_144
+  - first:
+      213: 21300290
+    second: imagen sprite perro mario bros_145
+  - first:
+      213: 21300292
+    second: imagen sprite perro mario bros_146
+  - first:
+      213: 21300294
+    second: imagen sprite perro mario bros_147
+  - first:
+      213: 21300296
+    second: imagen sprite perro mario bros_148
+  - first:
+      213: 21300298
+    second: imagen sprite perro mario bros_149
+  - first:
+      213: 21300300
+    second: imagen sprite perro mario bros_150
+  - first:
+      213: 21300302
+    second: imagen sprite perro mario bros_151
+  - first:
+      213: 21300304
+    second: imagen sprite perro mario bros_152
+  - first:
+      213: 21300306
+    second: imagen sprite perro mario bros_153
+  - first:
+      213: 21300308
+    second: imagen sprite perro mario bros_154
+  - first:
+      213: 21300310
+    second: imagen sprite perro mario bros_155
+  - first:
+      213: 21300312
+    second: imagen sprite perro mario bros_156
+  - first:
+      213: 21300314
+    second: imagen sprite perro mario bros_157
+  - first:
+      213: 21300316
+    second: imagen sprite perro mario bros_158
+  - first:
+      213: 21300318
+    second: imagen sprite perro mario bros_159
+  - first:
+      213: 21300320
+    second: imagen sprite perro mario bros_160
+  - first:
+      213: 21300322
+    second: imagen sprite perro mario bros_161
+  - first:
+      213: 21300324
+    second: imagen sprite perro mario bros_162
+  - first:
+      213: 21300326
+    second: imagen sprite perro mario bros_163
+  - first:
+      213: 21300328
+    second: imagen sprite perro mario bros_164
+  - first:
+      213: 21300330
+    second: imagen sprite perro mario bros_165
+  - first:
+      213: 21300332
+    second: imagen sprite perro mario bros_166
+  - first:
+      213: 21300334
+    second: imagen sprite perro mario bros_167
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3462
+        width: 203
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50cad31ae297894091b9dc2aa3449ee
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3561
+        width: 244
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7e62c9d32374346af333171e36b307
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 3555
+        width: 229
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f001479c853e269449a5b84abaadb18c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_3
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3565
+        width: 214
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479f0e1945386d241a2044496427d179
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_4
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 3576
+        width: 292
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2805652a48050441b2985d81e73ea71
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_5
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 3663
+        width: 122
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8baa9ef8a63fd4d848a436482506c3
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_6
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 3522
+        width: 155
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a445c724d7f61da49a52f76069c58df6
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_7
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 3594
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c430cb2b125b4ebc6a792448221ea
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_8
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 3594
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b878e8581dfcfab46b3ae616c6db2421
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_9
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 3615
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f398c958d698cd44b51dd581f297724
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_10
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 3615
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea8cd09d2297204f832a9b91e0c1ba4
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_11
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 3583
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac10ec9093265d42bb6a3514a837daa
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_12
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 3583
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e42718c0c778e4d9db33ef08bd65f1
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_13
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 3449
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9873d49b00d3b4fa8f16a03ed72e03
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_14
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 3503
+        width: 112
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88132baeb01e004baf9fdcf1175593a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_15
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 3365
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfc871d5164d6b4684873a24b55ce28
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_16
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 3365
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc5807fc4d24ac4d8fb09debd3891b1
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_17
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 3390
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ae3112b7ce0a7428b7950978c09123
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_18
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 3389
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d323422047ba2e4da28bdc7bd052ce5
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_19
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 3438
+        width: 112
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b46d9c4822f694ea8851ac20cb71ce
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3225
+        width: 229
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bf48f0c4804e34092ee13ad25013ee
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3217
+        width: 229
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510d342853e4bf648a2b44b39aa492f5
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_22
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 3229
+        width: 304
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef5f4c0063ec5242b57b36934ae0dba
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_23
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 3229
+        width: 156
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e1b838255822c4bbc3c43dbae5804b
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_24
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 3385
+        width: 112
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb23b1d29e22fc546a1e665870c12c46
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_25
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 3319
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c866e2afe002a43990425ef2034a44
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_26
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 3314
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da92709c447e58843996d5ea21a43b91
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_27
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3199
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f599e93adfa7c3e4da9de7491479cf6d
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_28
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 3199
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7ce4f7c8677d94a8639789d92fb491
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2912
+        width: 244
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012cdcc6ad6c1ce4dade13e69cba8fd8
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_30
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2906
+        width: 229
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d415be85db596f49a9885d632a4d091
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_31
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2917
+        width: 214
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb59a03989eaab14e81730ed110da60f
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_32
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2926
+        width: 291
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6efbad3e63a674db9ed633150369f0
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_33
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 3016
+        width: 122
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cad9a7cfc05da4f87793aef77bc738
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_34
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2873
+        width: 155
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f46fa55c8efa245b288acf54e78cd0
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_35
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 2945
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc56b57e7d0eb6a4ab287ca10dee7997
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_36
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 2945
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12712925e77d4af4186dc61e10aac028
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_37
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 2966
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0583e55a531f834d9e66536634068de
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_38
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 2966
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c570560c44805a64ea58217e410e0dd6
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_39
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 2934
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc9f223bb4551a459c5237ee5f30447
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_40
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 2934
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a385d9e097d58c644b866dc8311bab65
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_41
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 2800
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346655f9e72bbfe43839611846d58634
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_42
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2855
+        width: 112
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408c4d05b332413478bd68e581d04d06
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_43
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2717
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e550ee17cda77c49a2b5b67a896f1c9
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_44
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2717
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c591ca0784ad484b85ed9bfb71f24b2
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_45
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 2742
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869c79839ca423743a77d21fed48de32
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_46
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 2742
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31344fcd1cc704b4b81e23222cbf8b89
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_47
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2790
+        width: 112
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb1508c70685fb43812fc36adcaaee7
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_48
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2576
+        width: 229
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfc6b786fd5b1c4ca1d87250f3a4921
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2570
+        width: 229
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ed3355756d44241a91b2638171979f
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_50
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2581
+        width: 304
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3181b83c7a03fe847bb927f87b6ff8c5
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_51
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 2581
+        width: 156
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fddb267594269142b25ac60f081eb0c
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_52
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2736
+        width: 112
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b74dbf9d67da04cac0fad5728853c0
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_53
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2671
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02538a27f16980a49870a32ec50202c9
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_54
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2666
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c68f83b6d8a36479b3d95a273941ed
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_55
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2551
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8b6e30010345942aac6e7f58f17d68
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_56
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2551
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e549c14d4c2f61249ada9009501a93cb
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2285
+        width: 244
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a53005ada692b4d96bf8aaffaf4464
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_58
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2279
+        width: 229
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a75a41136ad39b448a21b6f736d8eff
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_59
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2288
+        width: 214
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd6ad38ace0789428e3bfb485135efc
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_60
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2300
+        width: 292
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2fa2d84ffc3dd45adadad9d142da2c
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_61
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2387
+        width: 122
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7406936843e10d24ea3b650618e7e083
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_62
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2245
+        width: 155
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8058934714579c44a3ebe9e7ab17f9c
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_63
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 2318
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d328a8949c41646bee2f4bc5b066bd
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_64
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 2318
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ee19e4d154cc244893db3e8503d4da
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_65
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 2339
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433e8434a829b9f4c80e67de016723d6
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_66
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 2339
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4eb685ace3ce74ba34974bdedcf5d8
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_67
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 2307
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706adc2a9b1eb7548834c71814b23447
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_68
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 2307
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153b44e77597bc24d8956444e085acbf
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_69
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 2173
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb0f96185650a64fa522bc383bde158
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_70
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2227
+        width: 112
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb840ac8037ab408a7a611db7b3da6
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_71
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2089
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68723907e11bed04aa6948cc24d3f210
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_72
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2089
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cb566a4de1c6a44b9b1d9930f7e455
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_73
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 2115
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea45eac5e8d1e7849a9b54332f85bc0d
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_74
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 2113
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb21581c060e0242803405cf9bcaf6f
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_75
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2162
+        width: 112
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a1628b9e5b60c4c91194b0ba879d9a
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_76
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1949
+        width: 229
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df286b91e0ec8419bd6c84a5c8e0c8
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_77
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1941
+        width: 229
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe54bf1199721e499e5d66e86cab083
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_78
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1953
+        width: 304
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808cfc1c11da27a4798d9bbe0ad74e8a
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_79
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1953
+        width: 156
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2d32a069cbfe246b59b9bb41e76044
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_80
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2109
+        width: 112
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2605afdb69a041e43807276699efb301
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_81
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2044
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38392e3c8e4dd9e4ab9ee2af4b907a86
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_82
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2038
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db99953547d721f4093d49530f9c87e3
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_83
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1923
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba7536b99f657340850b6bb807aaafd
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_84
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1923
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cf80e5dea6ba04fbe44fdeef6530b6
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1643
+        width: 244
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3887b60064ce74ca5341bbbd787d6e
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_86
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1647
+        width: 214
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845ef1352b1092541af7425217729779
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_87
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1658
+        width: 292
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30998b7e62af1949b24e43ee82d3b8d
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_88
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1742
+        width: 182
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b695452fa51e549aac6d95aa2fab28
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_89
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1824
+        width: 87
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5512affe59b818c45b1b05f23d1a77de
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_90
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1637
+        width: 229
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e2a3b7790a1f643848523692efe2d2
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_91
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1798
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0337ee2cfd3b44bb4040c98988b14b
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_92
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1798
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80804ecfc136926409278e487a225dfc
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_93
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1766
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ee41df097c96647bf0d1ea9d46b028
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_94
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1766
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571db85544346c54d9ecd7f0e9e746d4
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_95
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1604
+        width: 155
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755842bea11683948ade5a9e88b5f42b
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_96
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1585
+        width: 112
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e90456580473de4094819b4e9a99fcb
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_97
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1447
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b5af61a7ca0634eadd995642a9b69c
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_98
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1447
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537e5ce1b508adc4ba3fb41b81c6f0f5
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_99
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1531
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b00c4c8dcb0724a81c0f2bb7bc64e4
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_100
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1520
+        width: 112
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc12fd86db80d5541859bb48399faf28
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_101
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1307
+        width: 229
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0c223869db2e34aacd4dc192c83156
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_102
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1300
+        width: 229
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac46375931687cc41999c4fccce93093
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_103
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1311
+        width: 304
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0430c1595bbebdf4e833630a8ee141fb
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_104
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1311
+        width: 182
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3915d5f7db0550d4aab522c1f7f31972
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_105
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1472
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bbf97ec5f552149b4f13d6ec78fe94
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_106
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1471
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc2f55fa39125f45b3f8ff35e4c945a
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_107
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1467
+        width: 112
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16be70a2da9d4e4e96a0a139c20d10b
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_108
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1401
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fbac9ce1ce1a644bb394479bd8ecef
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_109
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1397
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b860e586d60e6a6428df5f23e13ed8ce
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_110
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1281
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31e4c880f927af41a217b31bec478ac
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_111
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1281
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a3436a425fbbc48bfae0181ca60e67
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1007
+        width: 244
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4917ddc368fcbdf428edd7f79b03ed73
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_113
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1001
+        width: 229
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276ad4415681ea84bb0eec06bd9b2fe1
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_114
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1010
+        width: 214
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a354fb96fbaa24ea74e406727b9fec
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_115
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1021
+        width: 292
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089906693bbee684f8f0a1ed0e488b54
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_116
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1109
+        width: 122
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b200e2861e0e37488188102d1a4068c
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_117
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 967
+        width: 155
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969264c1420a84f4191bf9aed91aabb6
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_118
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1040
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2407db4ad4cbed94a889a7d6b5886983
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_119
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1040
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c34a7fbc9e0604e942cc7887942207
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_120
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1061
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db6551285938e940a5b796f848f791f
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_121
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1061
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1b0c181fad30542a6c2a67038980db
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_122
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1029
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cd1f8a92b4d5d479c2c255149dc2fb
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_123
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1029
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6a996de6e774a4f8361d3600391f94
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_124
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 895
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b055971c7c11b7c468e33fabcc01a9c7
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_125
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 949
+        width: 112
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3863f23a98a3954da635b6a66dbeb05
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_126
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 811
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a740b99d4a43f0478d23b6d954caf80
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_127
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 811
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1f46db5e7752a4e83291313e21938a
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_128
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 837
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21256486765ea740b70276606977f20
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_129
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 835
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcadaaeb4d00324caea244f8d346c6f
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_130
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 884
+        width: 112
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67e787d1ed04f74abed09848daef68e
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_131
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 671
+        width: 229
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0290683cd0c91140a766ed99d7e232d
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_132
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 663
+        width: 229
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b7bc9574954464fba6bc083d4289e4
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_133
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 675
+        width: 304
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10d36c232b3cba488bbee2c7898aa09
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_134
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 675
+        width: 156
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ebf609695f1dd47adad1e9fb412d71
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_135
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 831
+        width: 112
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565d2adef2329a949875436e96fcbf2d
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_136
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 766
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa4c611329c84e4eb549a82bff648df
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_137
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 760
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e15b196cb41e134398893f3f5b354f1
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_138
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 645
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d159a115bf1a44fb46aa331029bc94
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_139
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 645
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db1bae3f4cb1ce4c867bef5c2709d42
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_140
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 390
+        width: 244
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff566afc36b2b14892dc6b38cd3644f
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_141
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 385
+        width: 229
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac4d8bb5ecbb3b41af3d1d0bfe56a32
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_142
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 395
+        width: 214
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f5e7014c099e94da1b0e2643ccfe33
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_143
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 405
+        width: 292
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd9eaef9e0b18458f509bbbe2fed20
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_144
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 494
+        width: 122
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922f5abbfe44bcf4aad59b7a18f9b36b
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_145
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 352
+        width: 155
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48ef9aa8cd517c4c8d4430223f46361
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_146
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 424
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92891d5aef1484b41a247ca79c028b11
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_147
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 424
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9382b700d716aa74fb027d33538e8cc5
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_148
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 445
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebbb7d59560d4a4f80e5d8e770d6cf8
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_149
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 445
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98ecc5e2dce0c4cbe802eb5842667f
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_150
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 413
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfa1415e66a3dc45866b2d5f5787e6c
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_151
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 413
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a498bc226b3b79743be4e004167db398
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_152
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 279
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8df9a7109bc154cbf8897d704c264e
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_153
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 333
+        width: 112
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a07c6fef257b644baba8566f5cef3ce
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_154
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 195
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2468a5b46be474bb01a21a265ea5e8
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_155
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 195
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f57c2bbf8469d4a8430d5ef71d0045
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_156
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 219
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cac9cc8d4437646b915307d02ea804
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_157
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 219
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e610ab275423f4945893b30bcd5bcf27
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_158
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 268
+        width: 112
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcae2faf7f139c4b82b77247843546b
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_159
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 55
+        width: 229
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c061f8340ae2e494098c064b431cd670
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_160
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 229
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4050340fe78cba4681f5b00153b3f8e
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_161
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 59
+        width: 304
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4b4003a13dbc54aae77e9929d3b8db
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_162
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 59
+        width: 156
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca9663ffc6e6e544bf32baa79ed6603
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_163
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 216
+        width: 112
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c109b150b3b676945893c87fcdb45064
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_164
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 149
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a7058cd07fbcd4abd2dcb6d793f6c4
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_165
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 145
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9e88b058ad7242bf2e791e5f8b023
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_166
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 29
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c042f689bc59926448f32075625bf7cc
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imagen sprite perro mario bros_167
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 29
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a5e373c17c25e46be58e74662aa08c
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3feb5da58b59c7c4e9fd189f34b037fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
